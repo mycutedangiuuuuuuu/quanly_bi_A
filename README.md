@@ -59,7 +59,8 @@ Thông tin cụ thể từng bảng :
 
 - chức năng kiểm tra số lần đặt lịch trong tuần:
 
-![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5bbfcb6b-23bb-40fe-8556-55ccd4b2b956)
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/f2c61fe9-8b83-4770-90a8-238c42050916)
+
 
 
 
