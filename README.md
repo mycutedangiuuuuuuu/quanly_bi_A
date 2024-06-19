@@ -55,8 +55,10 @@ Test ví dụ :
 chức năng đặt lịch bàn :
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/080e0a8c-a081-4b80-9812-c3c71b5d005c)
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/cc7b32c9-bd48-4e82-ad6d-e903e82f21e1)
 
 chức năng kiểm tra số lần đặt lịch trong tuần:
+
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5bbfcb6b-23bb-40fe-8556-55ccd4b2b956)
 
 
