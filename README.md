@@ -1,11 +1,11 @@
 # quanly_bi_A
 
 # Sinh viên thực hiện :
-Họ và tên : Nguyễn Thị Chà My
-Lớp : K57KMT
-Mssv :k215480106110
-Tên đề tài : quản lý quán bi_a
-# Mô tả :
+- Họ và tên : Nguyễn Thị Chà My
+- Lớp : K57KMT
+- Mssv :k215480106110
+- Tên đề tài : quản lý quán bi_a
+# Mô tả hệ thống :
 -	Bảng ‘Dangkyban’: Bảng này lưu trữ thông tin về các lần khách hàng đăng ký bàn tại quán bi-a
 -	Bảng ‘Khachhang’: Bảng này lưu trữ thông tin chi tiết về các khách hàng.
 -	Bảng ‘Lichban’: Bảng này lưu trữ thông tin về lịch làm việc của nhân viên liên quan đến việc phục vụ khách hàng.
