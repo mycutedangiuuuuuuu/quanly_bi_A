@@ -66,6 +66,7 @@ chức năng tính tiền bàn
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/8e2868e0-760a-465a-ad8c-f832291fe215)
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/d6d25fd1-ced9-444b-ad1e-3322c83581e5)
+
 Funtion tính tiền bàn trong ngày 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/f5c907a5-334a-4e16-9055-6dc86f2b56db)
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/a83dfe28-ca8b-487f-8618-0d6b7c45111b)
