@@ -14,28 +14,28 @@ Tên đề tài : quản lý quán bi_a
 
 Thông tin cụ thể từng bảng :
 -	Thông tin cụ thể các bảng như sau :
-o	‘Dangkyban’ : Id  🔑 , Makhachhang, Tenkhachhang, Maban, Ngay, Thoigianbatdau, Thoigianketthuc.
-o	‘Dangkyban’ : Id 🔑 , Makhachhang, HoTen, Ngaysinh, Goitinh, Sodienthoai.
-o	‘Lichban’ : Id🔑 ,Manhanvien, Makhachhang, Maban, Ngay, Giobatdau, Gioketthuc.
-o	‘Nhanvien’ : Id🔑 ,Manhanvien, Hoten, Ngaysinh, Gioitinh, Sodienthoai , Diachi , soccd.
-o	‘Ban’ : Id🔑 , Maban, Tenban, Tinhtrangban,Gia_gio.
+-	‘Dangkyban’ : Id  🔑 , Makhachhang, Tenkhachhang, Maban, Ngay, Thoigianbatdau, Thoigianketthuc.
+-	‘Dangkyban’ : Id 🔑 , Makhachhang, HoTen, Ngaysinh, Goitinh, Sodienthoai.
+-	‘Lichban’ : Id🔑 ,Manhanvien, Makhachhang, Maban, Ngay, Giobatdau, Gioketthuc.
+-	‘Nhanvien’ : Id🔑 ,Manhanvien, Hoten, Ngaysinh, Gioitinh, Sodienthoai , Diachi , soccd.
+-	‘Ban’ : Id🔑 , Maban, Tenban, Tinhtrangban,Gia_gio.
 Để xây dựng một hệ thống :
 	Để xây dựng một hệ thống quản lý nhà hàng hiệu quả, chúng ta cần giải quyết một số vấn đề cơ bản sau:
 1.	Quản lý thông tin khách hàng:
-o	Lưu trữ thông tin chi tiết về khách hàng, bao gồm mã khách hàng, họ tên, ngày sinh, giới tính, số điện thoại, địa chỉ, và số căn cước công dân.
-o	Đảm bảo rằng mỗi khách hàng được xác định duy nhất bởi mã khách hàng.
+-	Lưu trữ thông tin chi tiết về khách hàng, bao gồm mã khách hàng, họ tên, ngày sinh, giới tính, số điện thoại, địa chỉ, và số căn cước công dân.
+-	Đảm bảo rằng mỗi khách hàng được xác định duy nhất bởi mã khách hàng.
 2.	Quản lý thông tin nhân viên:
-o	Lưu trữ thông tin chi tiết về nhân viên, bao gồm mã nhân viên, họ tên, ngày sinh, giới tính, số điện thoại, địa chỉ, và số căn cước công dân.
-o	Đảm bảo rằng mỗi nhân viên được xác định duy nhất bởi mã nhân viên.
+-	Lưu trữ thông tin chi tiết về nhân viên, bao gồm mã nhân viên, họ tên, ngày sinh, giới tính, số điện thoại, địa chỉ, và số căn cước công dân.
+-	Đảm bảo rằng mỗi nhân viên được xác định duy nhất bởi mã nhân viên.
 3.	Quản lý bàn trong nhà hàng:
-o	Lưu trữ thông tin về các bàn, bao gồm mã bàn, tên bàn, tình trạng bàn, và giá thuê bàn theo giờ.
-o	Đảm bảo rằng mỗi bàn được xác định duy nhất bởi mã bàn.
+-	Lưu trữ thông tin về các bàn, bao gồm mã bàn, tên bàn, tình trạng bàn, và giá thuê bàn theo giờ.
+-	Đảm bảo rằng mỗi bàn được xác định duy nhất bởi mã bàn.
 4.	Quản lý đăng ký bàn của khách hàng:
-o	Lưu trữ thông tin về các lần đăng ký bàn của khách hàng, bao gồm mã khách hàng, tên khách hàng, mã bàn, ngày, thời gian bắt đầu và thời gian kết thúc đăng ký.
-o	Đảm bảo rằng mỗi lần đăng ký bàn được xác định duy nhất bởi một mã đăng ký.
+-	Lưu trữ thông tin về các lần đăng ký bàn của khách hàng, bao gồm mã khách hàng, tên khách hàng, mã bàn, ngày, thời gian bắt đầu và thời gian kết thúc đăng ký.
+-	Đảm bảo rằng mỗi lần đăng ký bàn được xác định duy nhất bởi một mã đăng ký.
 5.	Quản lý lịch làm việc của nhân viên:
-o	Lưu trữ thông tin về lịch làm việc của nhân viên, bao gồm mã nhân viên, mã khách hàng, mã bàn, ngày, giờ bắt đầu và giờ kết thúc.
-o	Đảm bảo rằng mỗi lịch làm việc được xác định duy nhất bởi một mã lịch.
+-	Lưu trữ thông tin về lịch làm việc của nhân viên, bao gồm mã nhân viên, mã khách hàng, mã bàn, ngày, giờ bắt đầu và giờ kết thúc.
+-	Đảm bảo rằng mỗi lịch làm việc được xác định duy nhất bởi một mã lịch.
 
 
 
