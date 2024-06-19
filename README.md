@@ -8,7 +8,7 @@ Tên đề tài : quản lý quán bi_a
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/8cd9bf90-d8e6-424c-9daf-64b0149feeac)
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5494bfde-da59-48df-96ad-ff22c8da499d)
 
-Function kiểm tra lịch đặt bàn :
+kiểm tra lịch đặt bàn :
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/9e9d91ae-cf11-4d65-beca-4b94a1f90503)
 
