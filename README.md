@@ -20,6 +20,20 @@ Funtion đặt lịch bàn :
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/080e0a8c-a081-4b80-9812-c3c71b5d005c)
 
+Funtion kiểm tra số lần đặt lịch trong tuần:
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5bbfcb6b-23bb-40fe-8556-55ccd4b2b956)
+
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/96bf02fe-9edb-457f-b0d7-e1105e9fbc0c)
+
+Funtion tính tiền bàn 
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/8e2868e0-760a-465a-ad8c-f832291fe215)
+
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/d6d25fd1-ced9-444b-ad1e-3322c83581e5)
+Funtion tính tiền bàn trong ngày 
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/f5c907a5-334a-4e16-9055-6dc86f2b56db)
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/a83dfe28-ca8b-487f-8618-0d6b7c45111b)
+
+
 
 
 
