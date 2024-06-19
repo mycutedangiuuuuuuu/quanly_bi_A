@@ -44,32 +44,32 @@ Thông tin cụ thể từng bảng :
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/8cd9bf90-d8e6-424c-9daf-64b0149feeac)
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5494bfde-da59-48df-96ad-ff22c8da499d)
 
-kiểm tra lịch đặt bàn :
+- kiểm tra lịch đặt bàn :
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/9e9d91ae-cf11-4d65-beca-4b94a1f90503)
 
-Test ví dụ :
+- Test ví dụ :
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/b37b4ddc-ee29-4053-9901-48ede59ab634)
 
-chức năng đặt lịch bàn :
+- chức năng đặt lịch bàn :
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/080e0a8c-a081-4b80-9812-c3c71b5d005c)
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/cc7b32c9-bd48-4e82-ad6d-e903e82f21e1)
 
-chức năng kiểm tra số lần đặt lịch trong tuần:
+- chức năng kiểm tra số lần đặt lịch trong tuần:
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5bbfcb6b-23bb-40fe-8556-55ccd4b2b956)
 
 
 
 
-chức năng tính tiền bàn 
+- chức năng tính tiền bàn 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/8e2868e0-760a-465a-ad8c-f832291fe215)
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/d6d25fd1-ced9-444b-ad1e-3322c83581e5)
 
-chức năng tính tiền bàn trong ngày 
+- chức năng tính tiền bàn trong ngày 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/f5c907a5-334a-4e16-9055-6dc86f2b56db)
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/a83dfe28-ca8b-487f-8618-0d6b7c45111b)
 
