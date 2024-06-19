@@ -59,9 +59,10 @@ chức năng đặt lịch bàn :
 chức năng kiểm tra số lần đặt lịch trong tuần:
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/5bbfcb6b-23bb-40fe-8556-55ccd4b2b956)
 
-![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/96bf02fe-9edb-457f-b0d7-e1105e9fbc0c)
+![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/cc7b32c9-bd48-4e82-ad6d-e903e82f21e1)
 
-chức tính tiền bàn 
+
+chức năng tính tiền bàn 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/8e2868e0-760a-465a-ad8c-f832291fe215)
 
 ![image](https://github.com/mycutedangiuuuuuuu/quanly_bi_A/assets/168768223/d6d25fd1-ced9-444b-ad1e-3322c83581e5)
